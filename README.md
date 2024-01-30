@@ -1,4 +1,5 @@
 👋 Hello, I am @LeoKiefner
+
 🎸 I like playing guitar, reading and swimming
 
 📖 I am a dedicated second-year Computer Science student at IUT Robert Schuman, specializing in software solution development with a passion for web development. My education has equipped me with a solid command of programming languages such as C, C#, and Java, as well as web development skills with HTML, CSS, PHP, and SQL databases. My versatility also extends to software engineering with an understanding of UML and effective use of version control systems like Git.
