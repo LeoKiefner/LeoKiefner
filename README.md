@@ -1,0 +1,3 @@
+- 👋 Bonjour, je suis @LeoKiefner
+- 👀 J'aime la guitare, la lecture et la natation
+- 🌱 Je suis actuellement en BUT Informatique a Strasbourg
