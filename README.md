@@ -28,15 +28,24 @@ As a **second-year Computer Science student at IUT Robert Schumann**, I'm honing
 - **Programming Languages:** Proficient in C, C#, and Java.
 - **Web Development:** Proficient in HTML, CSS, PHP, JavaScript and managing SQL databases.
 - **Software Engineering:** Knowledgeable in UML and adept with version control systems like Git.*
+
 ---
 
 ### 💻 Projects & Endeavors
 
-My project portfolio is a testament to my dedication and ability to translate complex user needs into functional, elegant solutions:
+My growing project portfolio showcases my commitment to addressing real-world problems with innovative and efficient software solutions. Each project highlights my versatility and ability to bridge the gap between user needs and technological execution:
 
-- **Windows Forms Application:** A culinary companion to select recipes based on pantry items.
-- **Showcase Website & Sudoku Solver:** Demonstrating my flair for frontend magic and backend wizardry.
-- **Full Stack Development:** With a solid foundation in Python and database management, I'm on a quest to become a versatile Full Stack Web Developer.
+- 🍰 **Fridgeo App:** Helping to enhance the kitchen experience, this app simplifies meal preparation by suggesting recipes based on ingredients you already have. Utilizing a smart algorithm, it offers personalized meal planning, reducing food waste and inspiring culinary creativity.
+
+- 💲**StockPrediction.ai:** A leap into the finance domain, this application employs machine learning to forecast stock market trends. By analyzing historical data and current market conditions, it provides investors with actionable insights, enhancing decision-making in volatile markets.
+
+- 🤖 **CocoBot:** Bridging content creation and platform optimization, this tool automatically edits videos for TikTok and YouTube Shorts, optimizing them for engagement and visibility.
+
+- 📇 **Showcase Website & Sudoku Solver:** My web development skills shine through in creating engaging online platforms and logical games. These projects demonstrate my proficiency in both frontend and backend development, crafting interactive user experiences and complex problem-solving applications.
+
+- 🔢 **Polynomial Arithmetic Repository:** Let's dives into the realm of mathematics, focusing on polynomial arithmetic in C. This project contains a collection of programs for various operations on polynomials, catering to students, math enthusiasts, and developers eager to explore and understand polynomial manipulation concepts. 
+
+- **Full Stack Development:** Building on a strong foundation in Python and database management, I'm actively expanding my skill set towards becoming a versatile Full Stack Web Developer. This journey is marked by hands-on projects that blend frontend innovation with robust backend systems.
 
 ---
 
