@@ -17,7 +17,8 @@ Feel free to reach out for collaborations or just a good chat:
 - 📖 Diving into the depths of literature and swimming across the waves of knowledge.
 - 🏊‍♂ ️Venturing into the serene embrace of water, one stroke at a time.
 
-![7786ce78-eb38-4125-a16a-17193e06db3a.png](..%2F..%2FDownloads%2F7786ce78-eb38-4125-a16a-17193e06db3a.png)
+![img_1.png](img_1.png)
+
 ---
 
 ### 📖 Academic Journey & Skills
