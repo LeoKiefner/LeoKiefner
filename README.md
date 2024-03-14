@@ -1,7 +1,3 @@
-To make the README more appealing, let's infuse it with a touch of personality and structure it for better readability. Here's a revamped version:
-
----
-
 ### 👋 Greetings!
 
 **I'm Leo Kiefner**, a vibrant spirit navigating the realms of technology and creativity. Welcome to my space!
@@ -21,16 +17,16 @@ Feel free to reach out for collaborations or just a good chat:
 - Diving into the depths of literature and swimming across the waves of knowledge.
 - Venturing into the serene embrace of water, one stroke at a time.
 
+![img.png](img.png)
 ---
 
 ### 📖 Academic Journey & Skills
 
-As a **second-year Computer Science student at IUT Robert Schuman**, I'm honing my skills to craft software solutions with a keen eye on web development. Here's a snapshot of my toolkit:
+As a **second-year Computer Science student at IUT Robert Schumann**, I'm honing my skills to craft software solutions with a keen eye on web development. Here's a snapshot of my toolkit:
 
 - **Programming Languages:** Proficient in C, C#, and Java.
-- **Web Development:** Skilled in HTML, CSS, PHP, and managing SQL databases.
-- **Software Engineering:** Knowledgeable in UML and adept with version control systems like Git.
-
+- **Web Development:** Proficient in HTML, CSS, PHP, JavaScript and managing SQL databases.
+- **Software Engineering:** Knowledgeable in UML and adept with version control systems like Git.*
 ---
 
 ### 💻 Projects & Endeavors
