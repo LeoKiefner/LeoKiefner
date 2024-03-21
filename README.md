@@ -15,7 +15,7 @@ Feel free to reach out for collaborations or just a good chat:
 
 - 🎸Strumming the strings of a guitar and getting lost in melodies.
 - 📖 Diving into the depths of literature and swimming across the waves of knowledge.
-- 🏊‍♂ ️Venturing into the serene embrace of water, one stroke at a time.
+- 🏊 ️Venturing into the serene embrace of water, one stroke at a time.
 
 ![img_1.png](img_1.png)
 
