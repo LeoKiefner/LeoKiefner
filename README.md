@@ -23,7 +23,7 @@ Feel free to reach out for collaborations or just a good chat:
 
 ### 📖 Academic Journey & Skills
 
-As a **second-year Computer Science student at IUT Robert Schumann**, I'm honing my skills to craft software solutions with a keen eye on web development. Here's a snapshot of my toolkit:
+As a **third-year Computer Science student at IUT Robert Schumann**, I'm honing my skills to craft software solutions with a keen eye on web development. Here's a snapshot of my toolkit:
 
 - **Programming Languages:** Proficient in C, C#, and Java.
 - **Web Development:** Proficient in HTML, CSS, PHP, JavaScript and managing SQL databases.
